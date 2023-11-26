@@ -4997,6 +4997,26 @@ body.is-cursor-active * {
   
   
 }
+@media (max-width: 504px) {
+  .masthead__content{
+    /* height: 50vh !important; */
+    /* height: fit-content; */
+    padding-top: 150px !important;
+    /* padding-bottom: 50px !important; */
+    /* height: fit-content; */
+    
+  }
+}
+@media (max-width: 379px){
+  .masthead__content{
+    /* height: 50vh !important; */
+    /* height: fit-content; */
+    padding-top: 100px !important;
+    /* padding-bottom: 50px !important; */
+    /* height: fit-content; */
+    
+  }
+}
 .headerVideo{
   height: 100%;
 }
