@@ -23,6 +23,8 @@ document.addEventListener('DOMContentLoaded', function () {
             Imgsrc.style.marginBottom="5px";
             Imgsrc.style.pointerEvents="none";
             backBtn.style.pointerEvents="none";
+             backBtn.style.display="block";
+            Imgsrc.style.display="block";
 
             // console.log(backBtn)
         } catch (error) {
